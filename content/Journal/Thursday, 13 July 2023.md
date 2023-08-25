@@ -1,1 +1,0 @@
-I'm finally getting back into journalling because I feel great. 

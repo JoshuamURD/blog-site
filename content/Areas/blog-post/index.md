@@ -1,4 +1,0 @@
-Tags:: #index 
-
-# Folder
-st
