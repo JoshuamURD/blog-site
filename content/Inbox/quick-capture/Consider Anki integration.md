@@ -1,0 +1,1 @@
+It is well established that spaced repetition is an effective method of memorisation. Anki is an open source flashcard program with several obsidian community plugin integrations. Consider a system of marking ideas for memorisation when necessary for my knowledge system.

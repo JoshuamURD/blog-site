@@ -1,0 +1,30 @@
+---
+tags: [concept]
+date-created: 2023-08-25
+---
+
+Tags:: [[tag-taxonomy|tag-taxonomy]]
+
+> [!example]- Note steps
+> - Provide a short summary of the concept ensuring that context is provided.
+> - Pool together ideas that make up the concept like "contract law". Concept notes also ask questions and have notes pooled to give answers.
+> - Can this concept be "zoomed out" further to an index or another overarching concept?
+> - Include relevant tags if necessary. Give preference to older ones.
+> - Once all the above is considered, click the checkbox to mark complete
+
+> [!note]- Relevant notes
+> **Does this concept link to any other concepts?**
+> **Does this concept contradict another concept?**
+> **Can this concept be linked to an index which outlines a variety of concepts?**
+
+
+- [ ] Completed?
+# Summary of concept
+Cognitive science is the study of the brain and its workings and spans a few different fields. This is a highly interesting topic to me and seems integral that I study it in order to continue my understanding of learning, memorisation and mental models.
+
+# Relevant Ideas
+
+## [this is a link to an idea]
+This is relevant for X reasons and relates to this overarching concept because Y.
+
+Tools for thinking

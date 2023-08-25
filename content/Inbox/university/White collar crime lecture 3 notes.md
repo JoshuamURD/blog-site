@@ -1,0 +1,1 @@
+- Whats the main difference between Friedrich and Sutherland's interpretation of WCC?
